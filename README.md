@@ -1,4 +1,7 @@
 # Boyle-Portfolio
-## TellingStoriesWithData
 
-Link to live site: https://jcboyle2.github.io/Boyle-Portfolio/
+[About Me](/AboutMe.md)
+
+[What I Hope to Learn from this Class](/HopeToLearn.md)
+
+[Porfolio](/Portfolio.md)
