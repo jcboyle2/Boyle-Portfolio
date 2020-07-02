@@ -2,6 +2,6 @@
 
 [About Me](/AboutMe.md)
 
-[What I Hope to Learn from this Class](/HopeToLearn.md)
+[What I Hope to Learn](/HopeToLearn.md)
 
 [Porfolio](/Portfolio.md)
