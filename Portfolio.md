@@ -11,7 +11,8 @@ Original Image from The Economist vs. Personal Critique
 
 <img src="economist_chart.png" width="300" height="300"> <img src="economist_chart_critique.png" width="300" height="300">
 
-[Click here for a link to my critique, which explains the choices I made to the original chart from The Economist.](/JohnBoyle_Critique #1_Economist_bar_chart.xlsx)
+<a href="Click here to download the written critique, which explains the choices I made to the original chart from The Economist" download="JohnBoyle_Critique #1_Economist_bar_chart.xlsx">
+</a>
 
 ## Week 2
 
