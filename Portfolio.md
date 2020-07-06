@@ -9,7 +9,7 @@ Visualization Critique #1: The Economist
 
 Original Image from The Economist vs. Personal Critique
 
-<img src="economist_chart.png" width="200" height="200" align="left" src="economist_chart_critique.png" width="200" height="200" align = "right">
+<img src="economist_chart.png" width="300" height="300" align="left"> <img src="economist_chart_critique.png" width="300" height="300" align = "right">
 
 
 ## Week 2
