@@ -5,6 +5,9 @@ See each week below to check out my visualizations!
 
 ## Week 1
 
+Visualization Critique #1: The Economist
+
+
 ## Week 2
 
 ## Week 3
