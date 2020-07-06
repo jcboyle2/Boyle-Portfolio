@@ -7,9 +7,13 @@ See each week below to check out my visualizations!
 
 Visualization Critique #1: The Economist
 
-[Original Image from The Economist](/economist_chart.png)
+Original Image from The Economist
 
-[Personal Critique](/economist_chart_critique.png)
+<img src="economist_chart.png" width="200" height="200">
+
+Personal Critique
+
+<img src="economist_chart_critique.png" width="200" height="200">
 
 ## Week 2
 
