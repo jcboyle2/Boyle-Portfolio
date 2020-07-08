@@ -4,4 +4,4 @@
 
 [What I Hope to Learn](/HopeToLearn.md)
 
-[Porfolio](/Portfolio.md)
+[Portfolio](/Portfolio.md)
