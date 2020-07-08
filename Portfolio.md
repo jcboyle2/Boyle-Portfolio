@@ -7,7 +7,7 @@ See each week below to check out my visualizations!
 
 ### Visualization Critique #1: The Economist
 
-Original Image from The Economist vs. Personal Critique
+Original Image from The Economist vs. Personal Critiques
 
 <img src="economist_chart.png" width="300" height="300"> <img src="economist_chart_critique.png" width="300" height="300"> <img src="economist_chart_critique2.png" width="300" height="300">
 
@@ -15,7 +15,17 @@ Original Image from The Economist vs. Personal Critique
 
 ### Other Critiques from The Good Charts Workbook
 
+<b>Comparing How We Spend Our Time</b>
 
+<img src="how_we_spend_time.png" width="600" height="300">
+
+<b>Interest In Buying A Drone, Total</b>
+
+<img src="drone_interest1.png">
+
+<b>Interest In Buying A Drone, Under 30</b>
+
+<img src="drone_interest2.png">
 
 ## Week 2
 
