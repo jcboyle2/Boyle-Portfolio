@@ -13,7 +13,11 @@ Original Image from The Economist vs. Personal Critiques
 
 <a href="https://github.com/jcboyle2/Boyle-Portfolio/blob/master/JohnBoyle_Critique%20%231_Economist_bar_chart.xlsx?raw=true">Download a written copy of the critique (.xlsx), which explains the decisions in the image above.</a>
 
-### Other Critiques from The Good Charts Workbook
+
+<button type="button" class="collapsible">Other Critiques from The Good Charts Workbook</button>
+<div class="content">
+  <p>Other Critiques from The Good Charts Workbook</p>
+</div>
 
 <b>Comparing How We Spend Our Time</b>
 
