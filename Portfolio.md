@@ -39,7 +39,10 @@ Below is the data critique from The Economist in week 1, re-visualized using Dat
 <b>General Government Debt (Total, % of GDP) - OECD Countries, 2017</b>
 <iframe src="https://data.oecd.org/chart/61Cj" width="640" height="480" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61Cj" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
 
+<b>General Government Debt (Total, % of GDP) - OECD Countries, 1995-2019
 
+Version 1: Tufte's Sparklines Re-Creation</b>
+<div class="flourish-embed flourish-chart" data-src="visualisation/3148409" data-url="https://flo.uri.sh/visualisation/3148409/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Week 3
 
