@@ -44,6 +44,9 @@ Below is the data critique from The Economist in week 1, re-visualized using Dat
 <b>Version 1: Tufte's Sparklines Re-Creation</b>
 <div class="flourish-embed flourish-chart" data-src="visualisation/3148409" data-url="https://flo.uri.sh/visualisation/3148409/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<b>Version 2: Animated Rank Chart, using Flourish Templates</b>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/3150106" data-url="https://flo.uri.sh/visualisation/3150106/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Week 3
 
 ## Week 4
