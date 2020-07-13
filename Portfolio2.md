@@ -18,27 +18,14 @@
   background-color: #555;
 }
 
-.collapsible:after {
-  content: '\002B';
-  color: white;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\2212";
-}
-
 .content {
   padding: 0 18px;
-  max-height: 0;
+  display: none;
   overflow: hidden;
   background-color: #f1f1f1;
 }
 </style>
 </head>
-
 <body>
 
 <h1>Portfolio</h1>
