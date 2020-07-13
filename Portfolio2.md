@@ -33,7 +33,8 @@
 .content {
   padding: 0 18px;
   max-height: 0;
-  transition: max-height 0.2s ease-out;
+  overflow: hidden;
+  transition: max-height 0.25s ease-out;
   background-color: #f1f1f1;
 }
 </style>
