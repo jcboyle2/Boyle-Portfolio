@@ -118,8 +118,6 @@ See each week below to check out my visualizations!
   </script>
   </p>
   </div>
-</p>
-</div>
 
 <button type="button" class="collapsible">Open Week 3</button>
 <div class="content">
@@ -152,7 +150,8 @@ See each week below to check out my visualizations!
   Check back soon for the Mini Project's benchmark assignments!
 </p>
 </div>
-
+</p>
+</div>
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
