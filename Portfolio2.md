@@ -79,11 +79,10 @@ This page will hold my publicly available visualizations and critiques for the c
   <button type="button" class="collapsible">Data Visualization: OECD Country Government Debt</button>
   <div class="content">
   <p>
-  <br>
   <h3>DataViz 2: Working with Web-Based Visualization Tools and Data</h3>
-  <br>
   <b>General Government Debt (Total, % of GDP) - OECD Countries, 2017</b>
   <iframe src="https://data.oecd.org/chart/61Cj" width="640" height="480" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a  href="https://data.oecd.org/chart/61Cj" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
+  <br>
   <br>
   <b>General Government Debt (Total, % of GDP) - OECD Countries, 1995-2019</b>
   <br>
