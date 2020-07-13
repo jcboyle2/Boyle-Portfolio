@@ -34,7 +34,6 @@
   padding: 0 18px;
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.25s ease-out;
   background-color: #f1f1f1;
 }
 </style>
