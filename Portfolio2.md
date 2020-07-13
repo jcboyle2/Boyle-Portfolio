@@ -33,7 +33,6 @@
 .content {
   padding: 0 18px;
   max-height: 0;
-  overflow: hidden;
   transition: max-height 0.2s ease-out;
   background-color: #f1f1f1;
 }
@@ -41,7 +40,6 @@
 </head>
   
 <h1>Portfolio</h1>
-<br>
 This page will hold my publicly available visualizations and critiques for the class.
 <br>
 <br>
@@ -61,8 +59,8 @@ This page will hold my publicly available visualizations and critiques for the c
     <br>
     <a href="https://github.com/jcboyle2/Boyle-Portfolio/blob/master/JohnBoyle_Critique%20%231_Economist_bar_chart.xlsx?raw=true">Download a written copy of the critique     (.xlsx), which explains the decisions in the image above.</a>
     <br>
-    </p>
-    </div>
+</p>
+</div>
 
 <button type="button" class="collapsible">Other Critiques and Redesigns from the Good Charts Workbook</button>
   <div class="content">
@@ -117,6 +115,8 @@ This page will hold my publicly available visualizations and critiques for the c
   </script>
   </p>
   </div>
+</p>
+</div>
 
 <button type="button" class="collapsible">Open Week 3</button>
 <div class="content">
