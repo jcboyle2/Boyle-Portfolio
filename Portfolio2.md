@@ -39,7 +39,9 @@
 }
 </style>
 </head>
-  
+
+<body>
+
 <h1>Portfolio</h1>
 This page will hold my publicly available visualizations and critiques for the class.
 <br>
