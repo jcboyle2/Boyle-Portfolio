@@ -89,7 +89,8 @@ See each week below to check out my visualizations!
 <button type="button" class="collapsible">Open Week 2</button>
 <div class="content">
 <p>
-  <h2>Week 2</h2>
+  <h2>Week 2:Chart Elements, Hierarchy, Ordering, and More</h2>
+  <br>
   <button type="button" class="collapsible">Data Visualization: OECD Country Government Debt</button>
   <div class="content">
   <p>
