@@ -79,6 +79,7 @@ This page will hold my publicly available visualizations and critiques for the c
   <button type="button" class="collapsible">Data Visualization: OECD Country Government Debt</button>
   <div class="content">
   <p>
+  <br>
   <h3>DataViz 2: Working with Web-Based Visualization Tools and Data</h3>
   <br>
   <b>General Government Debt (Total, % of GDP) - OECD Countries, 2017</b>
@@ -98,7 +99,7 @@ This page will hold my publicly available visualizations and critiques for the c
   <div class="content">
   <p>
   Below is the data critique from The Economist in week 1, re-visualized using Datawrapper!
-
+  <br>
   <iframe title="Brazil's Growing Pension Problem" aria-label="chart" id="datawrapper-chart-wsU57" src="https://datawrapper.dwcdn.net/wsU57/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
   </script>
   </p>
