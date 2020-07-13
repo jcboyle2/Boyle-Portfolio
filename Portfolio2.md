@@ -18,15 +18,27 @@
   background-color: #555;
 }
 
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
 .content {
   padding: 0 18px;
-  display: none;
+  max-height: 0;
   overflow: hidden;
+  transition: max-height 0.2s ease-out;
   background-color: #f1f1f1;
 }
 </style>
 </head>
-<body>
   
 <h1>Portfolio</h1>
 <br>
@@ -34,7 +46,7 @@ This page will hold my publicly available visualizations and critiques for the c
 See each week below to check out my visualizations!
 <br>
 <br>
-<p>Collapsible Set of Weeks:</p>
+<p>Check below for the collapsible menu of each weeks assignments!:</p>
 <button type="button" class="collapsible">Open Week 1</button>
 <div class="content">
 <p>
@@ -77,7 +89,7 @@ See each week below to check out my visualizations!
 <button type="button" class="collapsible">Open Week 2</button>
 <div class="content">
 <p>
-<h2>Week 2</h2
+  <h2>Week 2</h2>
   <button type="button" class="collapsible">Data Visualization: OECD Country Government Debt</button>
   <div class="content">
   <p>
@@ -105,13 +117,38 @@ Below is the data critique from The Economist in week 1, re-visualized using Dat
 </script>
 </p>
 </div>
-## Week 3
 
-## Week 4
+<button type="button" class="collapsible">Open Week 3</button>
+<div class="content">
+<p>
+  <h2>Week 3</h2>
+  Check back soon for Week 3's assignments!
+</p>
+</div>
 
-## Week 5
+<button type="button" class="collapsible">Open Week 4</button>
+<div class="content">
+<p>
+  <h2>Week 4</h2>
+  Check back soon for Week 4's assignments!
+</p>
+</div>
 
-## Mini Project
+<button type="button" class="collapsible">Open Week 5</button>
+<div class="content">
+<p>
+  <h2>Week 5</h2>
+  Check back soon for Week 5's assignments!
+</p>
+</div>
+
+<button type="button" class="collapsible">Open Mini Project</button>
+<div class="content">
+<p>
+  <h2>Mini Project</h2>
+  Check back soon for the Mini Project's benchmark assignments!
+</p>
+</div>
 
 <script>
 var coll = document.getElementsByClassName("collapsible");
@@ -121,11 +158,11 @@ for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     this.classList.toggle("active");
     var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
     } else {
-      content.style.display = "block";
-    }
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
   });
 }
 </script>
