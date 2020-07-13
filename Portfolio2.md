@@ -103,8 +103,6 @@ This page will hold my publicly available visualizations and critiques for the c
   </script>
   </p>
   </div>
-</p>
-</div>
 
 <button type="button" class="collapsible">Open Week 3</button>
 <div class="content">
