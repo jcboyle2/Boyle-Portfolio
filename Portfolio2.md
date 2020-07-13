@@ -61,9 +61,8 @@ This page will hold my publicly available visualizations and critiques for the c
     <img src="economist_chart.png" width="300" height="300"> <img src="economist_chart_critique.png" width="300" height="300"> <img src="economist_chart_critique2.png"           width="300" height="300">
     <br>
     <a href="https://github.com/jcboyle2/Boyle-Portfolio/blob/master/JohnBoyle_Critique%20%231_Economist_bar_chart.xlsx?raw=true">Download a written copy of the critique     (.xlsx), which explains the decisions in the image above.</a>
-    <br>
-</p>
-</div>
+  </p>
+  </div>
 
 <button type="button" class="collapsible">Other Critiques and Redesigns from the Good Charts Workbook</button>
   <div class="content">
