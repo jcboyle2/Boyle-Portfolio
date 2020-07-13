@@ -89,8 +89,17 @@ This page will hold my publicly available visualizations and critiques for the c
   <b>Version 1: Tufte's Sparklines Re-Creation</b>
   <div class="flourish-embed flourish-chart" data-src="visualisation/3148409" data-url="https://flo.uri.sh/visualisation/3148409/embed"><script     src="https://public.flourish.studio/resources/embed.js"></script></div>
   <br>
+In the chart above, we are examining the Debt-to-GDP ratio of each OECD Country from 1995 to 2019. The Debt-to-GDP ratio ranges from as low as 6.6% in Estonia (2001) to a high of 238.7% in Japan (2018). As you may notice, not every country has data available for each year reported. By looking at this chart you can see which countries were most impacted by the 2008 Financial Crisis (like Greece, Spain, and the United States), which were relatively unaffected (like Norway, Poland, and Sweden).
+  <br>
+  <br>
   <b>Version 2: Animated Rank Chart, using Flourish Templates</b>
   <div class="flourish-embed flourish-scatter" data-src="visualisation/3150106" data-url="https://flo.uri.sh/visualisation/3150106/embed"><script   src="https://public.flourish.studio/resources/embed.js"></script></div>
+  <br>
+    This chart, similar to the first, examines each country individually by animating through each country's available data. My original plan was to make the color gray on the "All Countries" slide, and highlightable with mouse hovering. However, I was not able to achieve this without using CSS (which is not available to a free account holder).
+
+I tried to focus on making this chart as simple as possible. The two colors, light blue and gray, are picked from the OECD logo. They seem to fit together well. The animation plays through in alphabetical order to show how each country differs from the last. A linear trendline is added to each chart to show how the Debt-to-GDP ratio has changed throughout the course of the 25 year period.
+
+If I were to take this a step further, I would add to the data an average debt-to-GDP ratio for each country to sort the data. Currently sorting by debt-to-GDP will mess with the make the line tracing the dots go by the years of highest ratios, not by year (so the lines for Japan would connect from 2018 -> 2014 -> 2015 -> ... -> 1995 instead of sequentially). Secondly, I would add a region specific tag in order to add another area of potential color. An example would be to compare European countries to South American countries to examine the effect of the 2008 Financial Crisis.
 </p>
 </div>
 
