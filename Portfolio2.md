@@ -43,10 +43,9 @@
 <h1>Portfolio</h1>
 <br>
 This page will hold my publicly available visualizations and critiques for the class.
-See each week below to check out my visualizations!
 <br>
 <br>
-<p>Check below for the collapsible menu of each weeks assignments!:</p>
+<p>Check below for the collapsible menu of each week's assignments!:</p>
 <button type="button" class="collapsible">Open Week 1</button>
 <div class="content">
 <p>
