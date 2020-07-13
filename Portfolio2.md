@@ -33,37 +33,46 @@
 This page will hold my publicly available visualizations and critiques for the class.
 See each week below to check out my visualizations!
 <br>
+<br>
 <p>Collapsible Set of Weeks:</p>
 <button type="button" class="collapsible">Open Week 1</button>
 <div class="content">
 <p>
-<br>
 <h2>Week 1</h2>
-<br>
-<h3>Visualization Critique #1: The Economist</h3>
-<br>
-Original Image from The Economist vs. Personal Critiques
-<br>
-<img src="economist_chart.png" width="300" height="300"> <img src="economist_chart_critique.png" width="300" height="300"> <img src="economist_chart_critique2.png" width="300" height="300">
-<br>
-<a href="https://github.com/jcboyle2/Boyle-Portfolio/blob/master/JohnBoyle_Critique%20%231_Economist_bar_chart.xlsx?raw=true">Download a written copy of the critique (.xlsx), which explains the decisions in the image above.</a>
-<br>
+  <button type="button" class="collapsible">Visualization Critique #1</button>
+  <div class="content">
+  <p>
+    <h3>Visualization Critique #1: The Economist</h3>
+    <br>
+    Original Image from The Economist vs. Personal Critiques
+    <br>
+    <img src="economist_chart.png" width="300" height="300"> <img src="economist_chart_critique.png" width="300" height="300"> <img src="economist_chart_critique2.png"           width="300" height="300">
+    <br>
+    <a href="https://github.com/jcboyle2/Boyle-Portfolio/blob/master/JohnBoyle_Critique%20%231_Economist_bar_chart.xlsx?raw=true">Download a written copy of the critique     (.xlsx), which explains the decisions in the image above.</a>
+    <br>
+    </p>
+    </div>
+
+<button type="button" class="collapsible">Other Critiques and Redesigns from the Good Charts Workbook</button>
+  <div class="content">
+  <p>
   <h3> Other Critiques from The Good Charts Workbook</h3>
-<br>
-<b>Comparing How We Spend Our Time</b>
-<br>
-<img src="how_we_spend_time.png" width="600" height="300">
-<br>
-<b>Interest In Buying A Drone, Total</b>
-<br>
-<img src="drone_interest1.png">
-<br>
-<b>Interest In Buying A Drone, Under 30</b>
-<br>
-<img src="drone_interest2.png">
+  <br>
+  <b>Comparing How We Spend Our Time</b>
+  <br>
+  <img src="how_we_spend_time.png" width="600" height="300">
+  <br>
+  <b>Interest In Buying A Drone, Total</b>
+  <br>
+  <img src="drone_interest1.png">
+  <br>
+  <b>Interest In Buying A Drone, Under 30</b>
+  <br>
+  <img src="drone_interest2.png">
+  </p>
+  </div>
 </p>
 </div>
-
 <button type="button" class="collapsible">Open Week 2</button>
 <div class="content">
 <p>
