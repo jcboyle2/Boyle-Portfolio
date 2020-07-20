@@ -33,7 +33,7 @@ For the second fuel efficiency visualization, I couldn't decided if I wanted to 
 
 When looking at the first CO2 emissions chart, the changes made here were roughly the same as the first MPG chart - an unadjusted y-axis and better titles. Again, I fee like this is a more accurate representation of the original data.
 
-![Hand Drawn Emissions Sketch 2](co2_emissions2.jpg) ![Excel Emissions Sketch 2](emi_sketch2.png)
+![Hand Drawn Emissions Sketch 2](co2_emission2.jpg) ![Excel Emissions Sketch 2](emi_sketch2.png)
 
 For the second chart of the CO2 emissions chart, I wanted to show the relationship between fuel efficiency and emissions. I feel like this is what the original was trying to do without actually making the comparison clear - because that would show how humans contribute to climate change. Originally I wanted to make a two-axis chart of straight MPG to C02 emissions, but that proved to be confusing to my feedback partners. By setting it to an indexed chart, I believe this shows how it is almost one-to-one, when fuel efficiency increases the CO2 emissions of vehicles decreases. Feedback also helped me pick colors that are different from each other, and from the second MPG chart - which was an issue in the wireframe.
 
