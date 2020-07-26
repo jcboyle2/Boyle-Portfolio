@@ -28,7 +28,32 @@ The call to action in this case is multipronged. There is encouraging local, sta
 
 ## User Research and Feedback
 
-TBD!
+#### Target Audience:
+
+Middle-class, educated people who are less likely to have worked a minimum wage job (outside of high school/college) or have lived the effects of poverty. This audience, I believe, would be most impacted by learning about the challenges of some of the most vulnerable Americans.
+
+#### Approach to Targeting Interviewees:
+
+Finding people to interview might be more difficult in the current climate, but I believe that many friends, family members, and classmates would fit the description.
+
+#### Interview Script:
+
+1.	How familiar are you with the minimum wage? Affordable housing?
+2.	An individual working a full time minimum wage job makes roughly $15k a year. Do you think that is above or below the poverty line? (it is above - $12,760)
+3.	What characteristics would you use to describe a minimum wage worker?
+4.	What do you think is the average fair market rent for a two bedroom apartment is in your state/nationwide? (read figure to them)
+5.	Do you think that is affordable? If not,
+a.	If you could quantify the cost of affordable housing what would it be?
+6.	Show draft visualizations – ask what the like/dislike, if confusing, etc.
+7.	Ask what policies would they be willing to support to address housing affordability issues.
+
+#### Interview Results:
+
+###### Individual #1:
+
+###### Individual #2:
+
+###### Individual #3:
 
 ## Data Availablilty:
 
