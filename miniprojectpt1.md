@@ -41,10 +41,10 @@ All data in this project is publicly avaliable, made by U.S. federal agencies. T
  
  
  ### References:
- [1]: https://www.bls.gov/opub/reports/minimum-wage/2019/home.html/ "U.S. BLS - Minimum Wage Characteristics"
+ [1]: https://www.bls.gov/opub/reports/minimum-wage/2019/home.htm/ "U.S. BLS - Minimum Wage Characteristics"
  
  [2]: https://www.dol.gov/agencies/whd/state/minimum-wage/history/ "U.S. DOL - Minimum Wage History"
  
  [3]: https://www.huduser.gov/portal/datasets/fmr.html#history/ "U.S. HUD - Fair Market Rent History"
  
- [4]: https://www.bls.gov/webapps/legacy/cpswktab3.html/ "U.S. BLS - Labor Force Statistics"
+ [4]: https://www.bls.gov/webapps/legacy/cpswktab3.htm/ "U.S. BLS - Labor Force Statistics"
