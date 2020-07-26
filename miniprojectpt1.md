@@ -34,7 +34,7 @@ TBD!
 
 All data in this project is publicly avaliable, made by U.S. federal agencies. This includes:
 
- - [U.S. Bureau of Labor and Statisitics - Characteristics of Minimum Wage Workers][1]
- - [U.S. Department of Labor - Minimum Wage History][2]
- - [U.S. Department of Housing and Urban Development - Fair Market Rent History][3]
- - [U.S. Department of Labor - Median Weekly Earnings of Full Time Workers][4]
+ - [1] [U.S. Bureau of Labor and Statisitics - Characteristics of Minimum Wage Workers](https://www.bls.gov/opub/reports/minimum-wage/2019/home.htm)
+ - [2] [U.S. Department of Labor - Minimum Wage History](https://www.dol.gov/agencies/whd/state/minimum-wage/history)
+ - [3] [U.S. Department of Housing and Urban Development - Fair Market Rent History](https://www.huduser.gov/portal/datasets/fmr.html#history)
+ - [4] [U.S. Department of Labor - Median Weekly Earnings of Full Time Workers](https://www.bls.gov/webapps/legacy/cpswktab3.htm)
