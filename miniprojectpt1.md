@@ -8,7 +8,7 @@ The minimum wage no longer supports affordable housing in any state. This projec
 
 All sketches and images below are just that - sketches - and subject to significant revision.
 
-![WireframeSketch1](wireframe_sketch1.png)
+![WireframeSketch1.1](wireframe_sketch2.png)
 
 The basic structure will start by introducing the main concept - the U.S. proposed a federal minimum wage as a living wage, yet raises in the minimum wage haven't kept up with rising housing costs. In this case, housing costs are defined by U.S. Department of Housing and Urban Development's Fair Market Rent (FMR) formula. In the aggregate, this will look at the national average FMR for a 2-bedroom apartment and at the individual state level.
 
@@ -30,11 +30,11 @@ The call to action in this case is multipronged. There is encouraging local, sta
 
 #### Target Audience:
 
-Middle-class, educated people who are less likely to have worked a minimum wage job (outside of high school/college) or have lived the effects of poverty. This audience, I believe, would be most impacted by learning about the challenges of some of the most vulnerable Americans.
+Middle-class, educated people who are less likely to have worked a minimum wage job (outside of high school/college) or have lived the effects of poverty. This audience, I believe, would be most impacted by learning about the challenges of some of the most vulnerable Americans and would have the means to make a difference in their community.
 
 #### Approach to Targeting Interviewees:
 
-Finding people to interview might be more difficult in the current climate, but I believe that many friends, family members, and classmates would fit the description.
+Finding people to interview might be more difficult in the current climate, but I believe that many friends, family members, and classmates would fit the description. Again, these would have experience renting, but less likely to have experience with near-poverty conditions.
 
 #### Interview Script:
 
@@ -47,22 +47,47 @@ a.	If you could quantify the cost of affordable housing what would it be?
 6.	Show draft visualizations – ask what the like/dislike, if confusing, etc.
 7.	Ask what policies would they be willing to support to address housing affordability issues.
 
+#### Metrics:
+
+Whether participants were aware of how tight the budget constraints for minimum wage workers, and
+
+Whether that awareness would make them more likely to support/take actions to fix wage and housing policy.
+
 #### Interview Results:
 
 ###### Individual #1:
 
+Individual one was aware, but not familiar with both wage and housing policy. They correctly believed that the average minimum wage worker skewed younger in age, generally had less education and opportunity than other works, and made more than the poverty line. For average FMR of a 2-bedroom apartment, they guessed $700 which was close to $300 below the average in the Virginia, and overestimated affordability by about $200.
+
+They liked seeing the history of the federal minimum wage and FMR prices, but not the percent change, which they considered distracting. For the map, they believed that the point it was trying to make was good to show that nothing is affordable, but that there needed to be more contrast in the colors. Additionally, the difference in state/federal wage chart needed to be reworked to show more reference as to what 0 means, plus and minus, etc.
+
 ###### Individual #2:
+
+Individual two was less aware of policy outside that it exists. They tended to view minimum wage workers as students doing "blue collar jobs... like maintenence, food prep, etc." They were almost exactly correct in identifying average FMR (they said $1000, it is $992 in VA), but incorrectly guessed as to what is affordable.
+
+For the visualizations, they did not like the state/federal minimum wage gap chart. They did not understand what it was trying to say, and could not figure out what the average was. They suggested either making the tick marks show above/below $7.25 or get rid of the chart. Additionally, they did not like the map and thought the colors were too similar to tell apart.
+
+While they were overall supportive of changing policy, they had a lot of questions as to what this meant for the average worker in each state - and why that was not addressed.
 
 ###### Individual #3:
 
+###### Overall Results and Changes:
+
+What I found was that my interviewees were aware of what the minimum wage was in their area, but were not aware of what that meant in terms of monthly/annual salary. Similarily they were not able to put that in context of the federal poverty line, or what would constitute affordable housing. They seemed less interested in the characteristics of the minimum wage workers and instead the context of average workers within a state. This caused me to rework a lot of the second half framework. I kept the basic history charts as I thought those were simple and clean, and necessary for educating people who may not know more of the details in wage/housing policy. Instead of using the state/federal difference chart from the framework - I made it a map in tableau which shows states above in blue, below in red, and same as federal in white. This worked a lot better, was smaller, and more efficient. However, I am having a little trouble getting the embed to show the legend for it in Shorthand.
+
+From there, I added to the inforgraphic in the wireframe - an example of affordability applied to the state of Wisconsin. From there, I decided to change the map to a range plot showing the gap between each state's minimum wage and the affordability wage to highlight how big the gap is in every state. Because some of my interviewee's were more interested in the population as a whole, I found data from the U.S. Bureau of Labor Statistics' Occupational Employment Stats, which had each states median and average hourly wage for all workers. I used this to make a second range plot to show that some states are still unaffordable even for the average worker's median wage. While I think these are better, I still think there might be room for me to add a top five most/least unaffordable states because of how busy both the range plots are.
+
+To see these changes in action, check out the preview of [my Shorthand here.](https://preview.shorthand.com/2xBDEdd7Tc82NsZK)
+ 
 ## Data Availablilty:
 
 All data in this project is publicly avaliable, made by U.S. federal agencies. This includes:
 
- - [1] [U.S. Bureau of Labor and Statisitics - Characteristics of Minimum Wage Workers](https://www.bls.gov/opub/reports/minimum-wage/2019/home.htm)
+ - [1] [U.S. Bureau of Labor Statisitics - Characteristics of Minimum Wage Workers](https://www.bls.gov/opub/reports/minimum-wage/2019/home.htm)
  - [2] [U.S. Department of Labor - Minimum Wage History](https://www.dol.gov/agencies/whd/state/minimum-wage/history)
  - [3] [U.S. Department of Housing and Urban Development - Fair Market Rent History](https://www.huduser.gov/portal/datasets/fmr.html#history)
  - [4] [U.S. Department of Labor - Median Weekly Earnings of Full Time Workers](https://www.bls.gov/webapps/legacy/cpswktab3.htm)
+ - [5] [U.S. Bureau of Labor Statistics - Occupational Employment Stats](https://www.bls.gov/oes/current/oessrcst.htm)
 
 [1] Characteristics of Minimum Wage Workers - used to describe the general characteristics of workers, mostly to correct misconceptions about minimum wage workers. Most minimum wage earners are above the age of the age of 25, and have at least a high school diploma.
 
@@ -71,3 +96,5 @@ All data in this project is publicly avaliable, made by U.S. federal agencies. T
 [3] Fair Market Rent History - used to create anything related to mapping average rent values for apartments in the U.S. This includes both creating a national average, state average, and county level (using FIPS) data, and dates back to 1983. Fair Market Rent is calculated by HUD, and is available for 0, 1, 2, 3, and 4 bedroom apartments. Recent analysis of affordable housing tend to focus on the 2-bedroom apartments as the benchmark.
 
 [4] Median Weekly Earnings - currently not being used in the wireframe, but may be informative in explaining the gap between earnings and affordable housing.
+
+[5] Occupational Employment Stats - Hourly/monthly/annually wage data for each state from May 2019. Used to compare against the affordablility wage calculated with FMR history data.
