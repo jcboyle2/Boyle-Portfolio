@@ -8,7 +8,7 @@ The minimum wage no longer supports affordable housing in any state. This projec
 
 All sketches and images below are just that - sketches - and subject to significant revision.
 
-<img scr="wireframe_sketch2.png" width="720">
+![Wireframe1.1](wireframe_sketch3.png)
 
 ## Story Arc:
 
