@@ -17,3 +17,5 @@ Here is my overall portfolio for the entire class. Check the links in the list b
 - [Week 2: Visualizing Government Debt](governmentdebt.md)
 
 - [Week 3: Design by Critique on the EPA](critiquebydesign.md)
+
+- [Week 4: Mini Project Pt. 1](miniprojectpt1.md)
