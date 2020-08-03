@@ -2,7 +2,7 @@
 
 ## New Wireframe
 
-![Final Wireframe](Revised Wireframe.png)
+![Final Wireframe](Revised%20%Wireframe.png)
 
 ## Project Revisions
 
