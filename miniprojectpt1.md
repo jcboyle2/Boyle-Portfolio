@@ -1,4 +1,4 @@
-# Mini Project - Summary and Outline
+# Mini Project Part 1 - Summary and Outline
 
 ## Project Summary:
 
