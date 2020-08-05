@@ -19,3 +19,7 @@ Here is my overall portfolio for the entire class. Check the links in the list b
 - [Week 3: Design by Critique on the EPA](critiquebydesign.md)
 
 - [Week 4: Mini Project Pt. 1](miniprojectpt1.md)
+
+- [Week 5: Mini Project Pt. 2](miniprojectpt2.md)
+
+- [Final Project - Compiled Research and Summary Page](miniprojectfinal.md)
