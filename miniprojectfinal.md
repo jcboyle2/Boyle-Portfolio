@@ -1,8 +1,8 @@
 # Mini Project - Final Story
 
-### Project Summary
+## Project Summary
 
-##### Introduction and Outline
+#### Introduction and Outline:
 
 As housing costs have steadily risen over the past 40 years, the earnings for minimum wage workers haven't matched those increased cost of living. Now, in 2020, no state is affordable to a minimum wage earner, and in some states not even affordable to the average wage earner. This project will examine potential wage and housing policy solutions, as well as what you can do to help in your community.
 
@@ -17,15 +17,15 @@ The general outline of the project will go as follows:
     7. Example of how some states are unaffordable to the average workers' wage ->
     8. Recommendations and call to action
 
-##### Wireframe
+#### Wireframe:
 
 ![Wireframe](revised_wireframe.png)
 
-##### Method and Medium
+#### Method and Medium:
 
 The project will be presented through a [Shorthand site](https://carnegiemellon.shorthandstories.com/the-unaffordable-american-dream/index.html) and will be online.
 
-##### Data Sources
+#### Data Sources:
 
 All data in this project is publicly avaliable, made by U.S. federal agencies. This includes:
 
@@ -45,11 +45,11 @@ All data in this project is publicly avaliable, made by U.S. federal agencies. T
 
 [5] Occupational Employment Stats - Hourly/monthly/annually wage data for each state from May 2019. Used to compare against the affordablility wage calculated with FMR history data.
 
-### Project Design and User Research
+## Project Design and User Research
 
-##### Original Sketches
+#### Original Sketches:
 
-##### User Research Protocol and Findings
+#### User Research Protocol and Findings:
 
 My target audience, both for the presentation and for interviewees, are middle-class, educated people who are less likely to have worked a minimum wage job (outside of high school/college) or have lived the effects of poverty. This audience, I believe, would be most impacted by learning about the challenges of some of the most vulnerable Americans and would have the means to make a difference in their community.
 
@@ -70,15 +70,19 @@ From there, I added to the inforgraphic in the wireframe - an example of afforda
 
 Overall, I felt it made my presentation stronger to be able to point to states where it is unaffordable for the average of all workers, and not just the small fraction of minimum wage workers.
 
-##### Revised Design
+#### Revised Design:
 
-### Final Data Story
+## Final Data Story
 
-##### Intended Audience
+#### Intended Audience:
 
-##### Work Summary
+#### Work Summary:
 
-##### Shorthand Link and other Reference Material
+#### Shorthand Link
+
+Shorthand Link: [The Unaffordable American Dream](https://carnegiemellon.shorthandstories.com/the-unaffordable-american-dream/index.html)
+
+#### Other Reference Material
 
 <a href="https://github.com/jcboyle2/Boyle-Portfolio/blob/master/FY20_4050_FMRs_rev.xlsx?raw=true">Download raw FY20 FMRs pulled from HUD. (.xlsx)</a>
 
