@@ -87,3 +87,15 @@ Overall, I felt it made my presentation stronger to be able to point to states w
 <a href="https://github.com/jcboyle2/Boyle-Portfolio/blob/master/average_fair_market_rent.xlsx?raw=true">Download computed average FMR for each state(.xlsx), which explains the decisions in the image above.</a>
 
 <a href="https://github.com/jcboyle2/Boyle-Portfolio/blob/master/wage_fmr_over_time.xlsx?raw=true">Download compiled history of federal minimum wage and FMR over time. (.xlsx)</a>
+
+[1] Source: [CBS News - "The Federal Minimum Wage Sets a Record - For Not Rising"](https://www.cbsnews.com/news/federal-minimum-wage-sets-record-for-length-with-no-increase/)
+
+[2] Source: [USDA - SNAP Eligibility](https://www.fns.usda.gov/snap/recipient/eligibility)
+
+[3] Source: [National Low Income Housing Coalition, 2020](https://reports.nlihc.org/oor/about)
+
+[4] Photo Source: [Wikipedia Commons, Pittsburgh View from the Incline](https://commons.wikimedia.org/wiki/File:Pittsburgh_view-from-incline_sm.jpg)
+
+[5] Photo Source: [White House Archives, President Barack Obama and First Lady Michelle Obama Tour the Columbia Parc Housing Development in New Orleans](https://obamawhitehouse.archives.gov/press-60)
+
+[6] Photo Source: [Andrea Piacquadio, Woman Working as a Cashier, Pexels Free Stock Photos](https://www.pexels.com/photo/woman-working-as-a-cashier-3801439/)
