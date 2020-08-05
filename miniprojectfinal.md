@@ -49,6 +49,18 @@ All data in this project is publicly avaliable, made by U.S. federal agencies. T
 
 #### Original Sketches:
 
+Federal Minimum Wage History:
+![WageSketch](wage_sketch.png)
+
+Average 2-Bedroom Fair Market Rent History Sketch:
+![FMRketch](fmr2_sketch.png)
+
+State Minimum Wage Difference Sketch:
+![StateWageSketch](state_wage_sketch1.PNG)
+
+Map of Affordability Sketch:
+![AffordabilityMap](map_affordability_sketch1.PNG)
+
 #### User Research Protocol and Findings:
 
 My target audience, both for the presentation and for interviewees, are middle-class, educated people who are less likely to have worked a minimum wage job (outside of high school/college) or have lived the effects of poverty. This audience, I believe, would be most impacted by learning about the challenges of some of the most vulnerable Americans and would have the means to make a difference in their community.
@@ -72,17 +84,32 @@ Overall, I felt it made my presentation stronger to be able to point to states w
 
 #### Revised Design:
 
+Based on my interviews, I was able to slightly change the scope of my project to include average wage workers, and I was able to clean up some of the less intuitive charts from my sketching.
+
+Map of State Minimum Wages:
+<div class='tableauPlaceholder' id='viz1596491888743' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MinimumWagebyState_15958742828010&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MinimumWagebyState_15958742828010&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MinimumWagebyState_15958742828010&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1596491888743');var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';       vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
+
+Minimum Wage Affordability Chart:
+<iframe title="No State Has Affordable Housing" aria-label="Range Plot" id="datawrapper-chart-qDIRF" src="https://datawrapper.dwcdn.net/qDIRF/5/" scrolling="no" frameborder="0" style="border: none;" width="595" height="1029"></iframe>
+
+Average Wage Affordability Chart:
+<iframe title="Affordability is a Mixed Bag" aria-label="Range plot" id="datawrapper-chart-PfQK0" src="https://datawrapper.dwcdn.net/PfQK0/3/" scrolling="no" frameborder="0" style="border: none;" width="595" height="1029"></iframe>
+
 ## Final Data Story
 
 #### Intended Audience:
 
+The final intended audience will stay the same for this presentation - primarily middle-class, educated individuals. Through the interviews I conducted, this audience was *aware* of minimum wage and housing costs, but they were shocked and surprised to learn the true extent of unaffordability in the United States. Although they were receptive to the original message, the interviewees pushed me to better understand my audience and expand the scope of the original project beyond just minimum wage earners.
+
+Moving forward, I believe that this audience, with the right messaging, would be willing to reach out to their elected officials, and potentially regular people within their community to push for change. Because of this, I included links in the website that would direct to 
+
 #### Work Summary:
 
-#### Shorthand Link
+#### Shorthand Link:
 
 Shorthand Link: [The Unaffordable American Dream](https://carnegiemellon.shorthandstories.com/the-unaffordable-american-dream/index.html)
 
-#### Other Reference Material
+#### Other Reference Material:
 
 <a href="https://github.com/jcboyle2/Boyle-Portfolio/blob/master/FY20_4050_FMRs_rev.xlsx?raw=true">Download raw FY20 FMRs pulled from HUD. (.xlsx)</a>
 
