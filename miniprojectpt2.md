@@ -64,5 +64,7 @@ Similar to the reworked minimum wage affordability chart above, I made a new cha
 ## Additional References (from Shorthand page):
 
 [1] Source: [CBS News - "The Federal Minimum Wage Sets a Record - For Not Rising"](https://www.cbsnews.com/news/federal-minimum-wage-sets-record-for-length-with-no-increase/)
+
 [2] Source: [USDA - SNAP Eligibility](https://www.fns.usda.gov/snap/recipient/eligibility)
+
 [3] Source: [National Low Income Housing Coalition, 2020](https://reports.nlihc.org/oor/about)
