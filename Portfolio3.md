@@ -12,10 +12,10 @@ Here is my overall portfolio for the entire class. Check the links in the list b
 - [Design by Critique on the EPA](critiquebydesign.md)
 
 #### Week 4: Project Critique and Feedback
-- [Mini Project Pt. 1](miniprojectpt1.md)
+- [Mini Project Pt. 1 - Data Prep and Wireframes](miniprojectpt1.md)
 
 #### Week 5: Project Presentation Prep
-- [Mini Project Pt. 2](miniprojectpt2.md)
+- [Mini Project Pt. 2 - Visualization and Layout Revisions](miniprojectpt2.md)
 
 #### Week 6: Final Presentation
 - [Final Project - Compiled Research and Summary Page](miniprojectfinal.md)
