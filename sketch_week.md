@@ -40,8 +40,8 @@ Sketches from The Good Charts Workbook:
 
 ![annotated](original_annotated.png)
 
-![hand1](sketch1.png)
+![hand1](sketch1.jpg)
 
-![hand2](sketch2.png)
+![hand2](sketch2.jpg)
 
-![hand3](sketch3.png)
+![hand3](sketch3.jpg)
