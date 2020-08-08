@@ -1,11 +1,13 @@
 # Boyle Portfolio: Telling Stories with Data Repository
 
+Click the link below to learn a little about me, and my interests that drove me to Heinz College.
+
 [About Me](/AboutMe.md)
 
-Click the link above to learn a little about me, and my interests that drove me to Heinz College.
+Check out the link below to learn more about my goals from Telling Stories with Data.
 
 [What I Hope to Learn](/HopeToLearn.md)
 
-Check this out to learn more about my goals from Telling Stories with Data.
+Have a look at the complete portfolio from the course at the link below.
 
 [Portfolio](/Portfolio3.md)
